@@ -37,7 +37,7 @@ model-viewer {
 
 .progress-bar.hide {
   visibility: hidden;
-  transition: visibility 0,3s;
+  transition: visibility 0.3s;
 }
 
 .update-bar {
